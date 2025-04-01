@@ -1,4 +1,4 @@
-# 🎥 Creepy Story Video Generator
+# 🎥 Story Video Generator
 
 This project automatically creates short horror videos with voiceover, subtitles, background music, and dark visuals using AI tools. Perfect for TikTok, YouTube Shorts, or Reels.
 
