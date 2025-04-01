@@ -4,7 +4,7 @@ This project automatically creates short horror videos with voiceover, subtitles
 
 ## 🧠 What It Does
 
-- 📝 Generates a creepy story using OpenAI GPT-4
+- 📝 Generates a story using OpenAI GPT-4
 - 🗣️ Converts the story into voiceover using ElevenLabs
 - 🎬 Creates a vertical video with MoviePy
 - 🔤 Adds auto-synced subtitles
